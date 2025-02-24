@@ -63,15 +63,23 @@ One of the most interesting features to us was the duration of the song. There h
 
 ## v. HOW TO USE THE CODE‬
 1. Upload or View The Notebook (Set up the environment)‬
-  a.‬‭ Open Google Colab.‬
-  b.‬‭ Click on File → Upload Notebook.‬
-  c.‬‭ Select the file CS_M148_Final_Project_Code.ipynb from your computer and upload it.‬
-    i.‬‭ Look through the code to become familiarized with what it does‬
-    ii.‬‭ Prepare the dataset and file formats‬.
+
+   a.‬‭ Open Google Colab.‬
+   
+   b.‬‭ Click on File → Upload Notebook.‬
+   
+   c.‬‭ Select the file CS_M148_Final_Project_Code.ipynb from your computer and upload it.‬
+
+     i.‬‭ Look through the code to become familiarized with what it does‬
+   
+     ii.‬‭ Prepare the dataset and file formats‬.
    
 If using the appendix code, just click the link(s) below.‬
 
-3. Run All Cells‬
-  a.‬‭ Click Runtime → Run All to execute all cells in the notebook sequentially.‬
-  b.‬‭ If you prefer to run individual cells, click on the play button beside each cell‬
-  c.‬‭ After executing the code, analyze how it works with your goals‬
+2. Run All Cells‬
+
+   a.‬‭ Click Runtime → Run All to execute all cells in the notebook sequentially.‬
+   
+   b.‬‭ If you prefer to run individual cells, click on the play button beside each cell‬
+   
+   c.‬‭ After executing the code, analyze how it works with your goals‬
